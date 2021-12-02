@@ -34968,7 +34968,22 @@
       "extensions": {
         "website": "https://hashzen.xyz/"
       }
-    }
+    },
+    {
+      "chainId": 101,
+      "address": "28QH6Lr97cAYqJcSzwtojtrr7n6duWV4K3vPXvcc8uxe",
+      "symbol": "SRA",
+      "name": "Serana",
+      "decimals": 8,
+      "logoURI": "https://github.com/arnoac/serana/blob/main/Serana_notext.png?raw=true",
+      "tags": [
+        "utility-token",
+        "community-token"
+      ],
+      "extensions": {
+        "website": "https://serana.io"
+      }
+    },
   ],
   "version": {
     "major": 0,
